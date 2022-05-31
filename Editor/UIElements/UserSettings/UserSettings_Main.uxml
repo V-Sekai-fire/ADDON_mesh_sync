@@ -1,8 +1,0 @@
-<UXML xmlns="UnityEngine.UIElements">
-
-    <Label text="Mesh Sync" class="header"/>
-       
-    <VisualElement name="Content">
-    </VisualElement>
-    
-</UXML>
