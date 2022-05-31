@@ -10,3 +10,17 @@
 1. From blender sync a cube.
 1. From a rest api catch the cube.
 
+# Assets
+AnimationClip
+Audio
+Material
+Texture
+
+# Protocol/Messages
+TextMessage
+
+# Others
+TransformAnimation
+
+#Structs
+BlendShapeData
