@@ -10,6 +10,10 @@
 1. From blender sync a cube.
 1. From a rest api catch the cube.
 
+# Blender Plugin Link
+
+https://github.com/V-Sekai-fire/TOOL_mesh_sync/blob/dev/Editor/Plugins%7E/UnityMeshSync_Blender_Windows.zip
+
 # Assets
 AnimationClip
 Audio
